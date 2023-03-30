@@ -14,5 +14,10 @@ BasicStructure audi=new BasicStructure();
         x.size="1234cc";
         x.weight="6543k";
 
+        color col=new color();
+        col.colorLIghts="True";
+        col.colorTire="false";
+        col.colorWindows="True";
+
     }
 }
