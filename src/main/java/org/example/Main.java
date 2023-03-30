@@ -14,5 +14,11 @@ BasicStructure audi=new BasicStructure();
         x.size="1234cc";
         x.weight="6543k";
 
+        lights neon=new lights();
+        neon.color="red";
+        neon.size="15cm";
+        neon.intensity="7675lumin";
+
+        
     }
 }
