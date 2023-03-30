@@ -9,6 +9,10 @@ BasicStructure audi=new BasicStructure();
     audi.model="A3";
     audi.power="5000CC";
 
+        engine x=new engine();
+        x.cylinders="8";
+        x.size="1234cc";
+        x.weight="6543k";
 
     }
 }
